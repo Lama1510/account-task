@@ -1,0 +1,15 @@
+C:\Users\k-tech\source\repos\AccountTask\bin\Debug\net7.0\AccountTask.exe
+C:\Users\k-tech\source\repos\AccountTask\bin\Debug\net7.0\AccountTask.deps.json
+C:\Users\k-tech\source\repos\AccountTask\bin\Debug\net7.0\AccountTask.runtimeconfig.json
+C:\Users\k-tech\source\repos\AccountTask\bin\Debug\net7.0\AccountTask.dll
+C:\Users\k-tech\source\repos\AccountTask\bin\Debug\net7.0\AccountTask.pdb
+C:\Users\k-tech\source\repos\AccountTask\obj\Debug\net7.0\AccountTask.csproj.AssemblyReference.cache
+C:\Users\k-tech\source\repos\AccountTask\obj\Debug\net7.0\AccountTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k-tech\source\repos\AccountTask\obj\Debug\net7.0\AccountTask.AssemblyInfoInputs.cache
+C:\Users\k-tech\source\repos\AccountTask\obj\Debug\net7.0\AccountTask.AssemblyInfo.cs
+C:\Users\k-tech\source\repos\AccountTask\obj\Debug\net7.0\AccountTask.csproj.CoreCompileInputs.cache
+C:\Users\k-tech\source\repos\AccountTask\obj\Debug\net7.0\AccountTask.dll
+C:\Users\k-tech\source\repos\AccountTask\obj\Debug\net7.0\refint\AccountTask.dll
+C:\Users\k-tech\source\repos\AccountTask\obj\Debug\net7.0\AccountTask.pdb
+C:\Users\k-tech\source\repos\AccountTask\obj\Debug\net7.0\AccountTask.genruntimeconfig.cache
+C:\Users\k-tech\source\repos\AccountTask\obj\Debug\net7.0\ref\AccountTask.dll
